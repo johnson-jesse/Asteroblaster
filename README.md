@@ -7,6 +7,7 @@ A game made with [Gamemaker](https://gamemaker.io)
 ## Game Development Progression
 
 KEY:
+
 	ISSUE:       Something isn't working right
 	CHANGE:      Something doesn't feel right
 	MVP:         Minimally viable product
