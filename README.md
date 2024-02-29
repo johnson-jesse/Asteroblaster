@@ -1,9 +1,8 @@
 # Asteroblaster
 > The space shooter of time trials
 
-A game made with [Gamemaker](https://gamemaker.io)
-
 [Play Demo](https://fizzog.io)
+A game made with [Gamemaker](https://gamemaker.io)
 
 ## Game Development Progression
 
