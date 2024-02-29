@@ -1,6 +1,8 @@
 # Asteroblaster
 The space shooter of time trials
 
+[Play Demo](https://fizzog.io)
+
 ## Game Development Progression
 
 KEY:
