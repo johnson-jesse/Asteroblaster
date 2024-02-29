@@ -72,7 +72,7 @@ KEY:
 - [x] Intergrate game pad controller support - menu
 - [ ] Create website for leaderboard
 - [ ] Create database for leaderboard
-- [ ]    * Also In game?
+	- [ ] Also In game?
 - [x] Purchase domain - asteroblaster.com
 - [ ] Create kick butt scores page to replace the game over page
 - [x] Create an electric (circle of death weapon) that is always available to ship with cooldow. The circle expands outwards from the ship the entire view that also nets you a +score
@@ -81,9 +81,9 @@ KEY:
 - [x] Add a slick screen transition between the rooms
 - [x] Add a slick screen transition between the ship respawns
 - [x] Add new sounds for various actions:
-- [x]	 * space garage scroll and move around
-- [x]	 * when picking a powerup drop
-- [ ]	 ~space engines?~
+	- [x] space garage scroll and move around
+	- [x] when picking a powerup drop
+	- [ ] ~space engines?~
 - [ ] ~Store cooldown needs to have bulk update or allow for repeated quick purchases~
 - [x] Implement credit drop score bonus
 - [x] Pause button
@@ -92,29 +92,29 @@ KEY:
 - [x] Asteroid explosions sound calculated on sprite size and distance from ship
 - [ ] Display difficulty indicator for medium and hard
 - [x] Add store items
-- [x]    * Reduce bulled spent times, maybe piggyback on the COOLDOWN?
-- [x]    * Increase max spent
-- [x]    * Increase mode score bonus
+	- [x] Reduce bulled spent times, maybe piggyback on the COOLDOWN?
+	- [x] Increase max spent
+	- [x] Increase mode score bonus
 - [x] Better splash screen (start or home room)
 - [x] Add bullet clip state to gui
 - [x] Juggo use sound
 - [ ] Level-Long Credit Multiplier
-- [ ]    * Destroying 3 or 4 Raider rockets in a row rewards LLCM
-- [ ]    * Destroying 2 or 3 Hunters with Juggo rewards LLCM
-- [ ]    * Destroying a single Hunter bullet rewards LLCM
-- [ ]    * Destroying Brute with laser rewards LLCM
-- [ ]    * LLCM award should include a slick twirling animation
+	- [ ] Destroying 3 or 4 Raider rockets in a row rewards LLCM
+	- [ ] Destroying 2 or 3 Hunters with Juggo rewards LLCM
+	- [ ] Destroying a single Hunter bullet rewards LLCM
+	- [ ] Destroying Brute with laser rewards LLCM
+	- [ ] LLCM award should include a slick twirling animation
 - [ ] Store item Heatsink to refresh primary repeater
 
 ## ENHANCEMENTS:
 - [x] Create lurching forward function that is always available to ship when purchased
 - [x] Create side car gunner that can attach to rear side of ship (two in total?) that has independent targeting that also nets you a +score
 - [x] Create levels that increase intensity starting with one type of danger and adding new dangers as levels increase.
-- [x]   * (level 1) Asteroids only.
-- [x]   * (level 2) Asteroids & hunters.
-- [x]   * (level 3) Asteroids, hunters, and raiders.
-- [x]   * (level 4) Asteroids, hunters, raiders, and brutes.
-- [ ]   ~Each level advanced grants one extra life~
+	- [x] (level 1) Asteroids only.
+	- [x] (level 2) Asteroids & hunters.
+	- [x] (level 3) Asteroids, hunters, and raiders.
+	- [x] (level 4) Asteroids, hunters, raiders, and brutes.
+- [ ] ~Each level advanced grants one extra life~
 - [ ] Create boss fights for levels ? and up. Last boss will throw asteroids at you including other dangers
 - [ ] Mini map radar
 - [ ] ~Also back up camera style indicator on HUD to indicate where incoming enemy is~
