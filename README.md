@@ -1,5 +1,5 @@
 # Asteroblaster
-|The space shooter of time trials
+> The space shooter of time trials
 
 A game made with [Gamemaker](https://gamemaker.io)
 
